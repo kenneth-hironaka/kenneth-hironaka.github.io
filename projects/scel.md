@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/scel/scel_logo.jpg
 title: "Smart Campus Energy Lab (SCEL), Team Bumblebee"
 date: 2026
 published: true
