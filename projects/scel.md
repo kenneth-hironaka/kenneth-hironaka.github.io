@@ -11,6 +11,9 @@ labels:
   - PCB Population
 summary: "My team tested and developed the communication module of the SCEL weatherbox."
 ---
+<img class="img-fluid" src="../img/scel/scel_banner.jpg" style="margin: 0 auto;">
+
+<small>Three Bumblebee PCBs. My partially soldered board is on the right, the completed reference board is in the center, and another teammate's board is on the right.</small>
 
 Smart Campus Energy Lab (SCEL) is a Vertically Integrated Project (VIP) in the College of Engineering at UH Manoa. The goal of SCEL is to make low-cost weatherboxes to capture weather data across the UH Manoa campus to then be used to inform and predict energy production and usage on campus. This supports the UH System's goal of being net-zero in energy use by 2035.
 
