@@ -11,7 +11,7 @@ labels:
   - PCB Population
 summary: "My team tested and developed the communication module of the SCEL weatherbox."
 ---
-<img class="img-fluid" src="../img/scel/scel_banner.jpg" style="margin: 0 auto;">
+<img class="img-fluid" src="../img/scel/scel_banner.jpg">
 
 <small>Three Bumblebee PCBs. My partially soldered board is on the right, the completed reference board is in the center, and another teammate's board is on the right.</small>
 
