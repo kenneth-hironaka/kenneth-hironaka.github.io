@@ -12,6 +12,7 @@ summary: "A national flute competition where I prepared three pieces to be recor
 ---
 
 <img class="img-fluid" src="../img/youngartist/nfa_banner.png">
+Adapted from [flutes.com](https://www.flutes.com/five-outstanding-winners-of-the-nfa-newly-published-music-prize-2024).\
 
 The 2026 National Flute Association (NFA) Young Artist Competition was a national flute competition for flutists under 30 years old to compete for an $8000 prize and a feature in *The Flutist Quarterly*, a national flute magazine. The first round of this competition was a recorded round where flutists submitted recordings of themselves playing two pieces with piano and one piece alone to become one of 15 quarterfinalists to play in the quarterfinal at the 2026 NFA convention in Portland, Oregon in August 2026. 
 
