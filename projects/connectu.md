@@ -10,7 +10,7 @@ labels:
   - ECE 367L
 summary: "A semester long project focused on implementing data structures and algorithms as a part of ECE 367L."
 ---
-<img class="img-fluid" src="../img/connectu/connectu_banner.jpg" style="margin: 0 auto;">
+<img class="img-fluid" src="../img/connectu/connectu_banner.jpg">
 
 <small>Image adapted from [medium.com](https://augustinejoseph.medium.com/graph-data-structure-in-python-38dd58752836).</small>
 
