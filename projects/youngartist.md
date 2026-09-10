@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/connectu/connectu_logo.png
+image: img/youngartist/young_artist_logo.jpg
 title: "2026 National Flute Association Young Artist Competition"
-date: 2026-02-12
+date: 2026
 published: true
 labels:
   - Flute Competition
