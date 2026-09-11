@@ -16,7 +16,7 @@ I think one of the best ways to understand someone is to understand what they do
 
 ## What is Software Engineering?
 
-<img class="img-fluid" src="../img/software-engineering/software_engineering.jpg">
+<img class="center-image" src="../img/software-engineering/software_engineering.jpg">
 
 <small>Image from [geeksforgeeks.com](https://www.geeksforgeeks.org/software-engineering/software-engineering/).</small>
 
