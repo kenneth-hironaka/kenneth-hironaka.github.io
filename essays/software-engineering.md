@@ -10,7 +10,7 @@ labels:
   - Learning 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering/software_engineering_initial_picture.jpg">
 
 I think one of the best ways to understand someone is to understand what they do and why. I've heard many different times of people butting heads in teams with various backgrounds simply because one or both sides has a fundamental misunderstanding of the other. One of the first examples that comes to mind is when my mom would often tell me that teachers like herself would have their work hampered by school administrators that had never been a classroom teacher. They would impose extra paperwork or rules that would be nonsensical to anyone who has been teaching in the classroom recently. Although I don't plan on becoming a teacher or an administrator, these stories from my mom have shown me the importance of understanding the different people on your team to work with them effectively. This mindset is one of the main reasons I am interested in learning software engineering. 
 
