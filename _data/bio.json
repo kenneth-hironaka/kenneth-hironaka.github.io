@@ -6,11 +6,11 @@
     "email": "hiro453@hawaii.edu",
     "phone": "808-332-9894",
     "website": "https://kenneth-hironaka.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2027.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kenneth-hironaka", "url": "http://github.com/kenneth-hironaka" },
-      { "network": "linkedin", "username": "kenneth-hironaka", "url": "http://linkedin.com/in/kenneth-hironaka-841aa2433" }
+      { "network": "linkedin", "username": "kenneth-hironaka", "url": "http://linkedin.com/in/kenneth-hironaka" }
     ]
   },
   "interests": [
@@ -32,9 +32,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2027)",
+      "area": "Computer Engineering (expected Spring 2027)",
       "studyType": "B.S.",
-      "startDate": "2023-08-23",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [ "Object Oriented Programming", "Data Structures and Algorithms/Lab", "Digital Systems and Computer Design/Lab" 
       ]
@@ -42,69 +42,51 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaiian Electric",
+      "position": "Summer Intern/Project Aide",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2026-05-26",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Intern at the Information Assurance Department",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assessed risk through reviewing requests to take company technology out of Hawaii",
+        "Identified application and server custodians to assist with the company’s federal cybersecurity certification",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "IEEE Eta-Kappa-Nu (HKN), Delta Omega Chapter",
+      "website": "https://hknhawaii.weebly.com/",
+      "position": "Member, Bridge Correspondent",
+      "startDate": "2025-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Participating in monthly Chapter Leaders’ Meetings and authoring chapter activity reports",
+        "Tracking key events needed for national chapter recognition",
+        "Currently serving as Bridge Correspondent for the 26-27 school year"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Smart Campus Energy Lab (SCEL)",
+      "website": "https://scel-hawaii.org/",
+      "position": "Communication Module Team Member, Sophomore Team Mentor",
+      "startDate": "2025-01",
+      "endDate": "2026-05",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Collaborated with fellow undergraduate students to develop and test the XBee communication module as a PCB and a part of the overall SCEL weatherbox.",
+        "Mentored 7 underclassmen and led them through tutorials on Arduino IDE, KiCad, OnShape and soldering"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "NCL Fall 2024 Challenge Coin",
+      "date": "2024-11",
+      "awarder": "National Cyber League",
+      "summary": "Coin awarded to competitors in the Individual Competition that placed in the top 500 players out of over 8,000."
     }
   ],
   "references": [
