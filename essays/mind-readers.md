@@ -15,7 +15,7 @@ labels:
 
 Unfortunately we live in a world where the at least the vast majority of people aren't mind readers. If most people were, then getting help from people, whether that be at a shop, when you're lost, or in any other situation where you would like instant help without having to explain anything. Because this is not our reality, we must be sure to ask specific questions with enough context, or smart questions, to be able to get the help we need the fastest. This is especially important in the context of software engineering, as every software engineer will get stuck eventually and have to turn to other software engineers or the broader internet community to get help, and smart questions help get answers quickly and effectively. To explain examples of smart questions and not-so-smart questions, I will show you two very different questions both posted on StackOverflow, a place where software engineers go to ask questions and get answers from the community (or where ChatGPT pulls from to give you an answer to your prompt).
 
-## An Example of a Smart Question
+## Example of a Smart Question
 
 The first question I will discuss is one about Java titled "Why is conditional processing of a sorted array faster than of an unsorted array?", which you may be able to clearly tell from the title alone, is about an if statement (a conditional) being run on every element of an array. The user noted that sorting the array made it run about six times faster, even though it theoretically should not matter. The user additionally stated that they ran the same program in a different programming language and still got the same result. Below is the program in C++ (the if statement is after the "// Test" comment):
 
