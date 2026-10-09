@@ -11,7 +11,7 @@ labels:
   - Confused
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap5/lost-bootstrap5.jpg">
+<img width="275px" class="rounded float-start pe-4" src="../img/bootstrap5/lost-bootstrap5.jpg">
 
 Have you ever been learning something that confuses you but somehow you get by with the little that you know? That's an experience I have been having while learning how to use Bootstrap 5 in my software engineering class recently. I've been getting by so far with the little I know and am hopeful that it will take me through the rest of the unit, or that it all starts to make sense to me very soon. In case you didn't know, <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap 5</a> is an open-source front-end web framework that is a toolkit of predefined HTML, CSS, and Javascript to help make designing websites faster and easier. With that definition out of the way, let's get into how I have been learning Bootstrap 5 so far.
 
