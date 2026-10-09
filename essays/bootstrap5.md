@@ -11,7 +11,7 @@ labels:
   - Confused
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/bootstrap5/lost-bootstrap5.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap5/lost-bootstrap5.jpg">
 
 Have you ever been learning something that confuses you but somehow you get by with the little that you know? That's an experience I have been having while learning how to use Bootstrap 5 in my software engineering class recently. I've been getting by so far with the little I know and am hopeful that it will take me through the rest of the unit, or that it all starts to make sense to me very soon. In case you didn't know, <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">Bootstrap 5</a> is an open-source front-end web framework that is a toolkit of predefined HTML, CSS, and Javascript to help make designing websites faster and easier. With that definition out of the way, let's get into how I have been learning Bootstrap 5 so far.
 
@@ -19,4 +19,8 @@ Have you ever been learning something that confuses you but somehow you get by w
 
 My first introduction to Bootstrap 5 was not through doing a guided tutorial, which is how I learned HTML and CSS, but through making navigation bars of various websites of businesses located here on Oahu. While it was interesting to see the different local businesses and how their websites were structured, the instructions for making the navigation bars were basically step-by-step instructions on what to do. While this sounds fine, these instructions did not really tell me *why* I needed to add certain classes or use certain HTML tags inside of other HTML tags. This unfortunately resulted in me becoming very good at decoding the instructions for these Bootstrap 5 assignments, and not very good at knowing what to use when without the step-by-step guidance. 
 
-This became clear to me in a practice quiz that we held in class a few days ago. The quiz gave us a sample webpage and essentially told us to recreate it using Bootstrap 5, with very little other instructions. This left me floundering during the quiz and caused me to barely finish the navigation bar before the time was up.    
+This became clear to me in a practice quiz that we held in class a few days ago. The quiz gave us a sample webpage and essentially told us to recreate it using Bootstrap 5, with very little other instructions. This left me floundering during the quiz and caused me to barely finish the navigation bar before the time was up. While this definitely made me see my deficiencies in Bootstrap 5, I feel like my confusion surrounding Bootstrap 5 could have been avoided if it was introduced in a more structured tutorial.
+
+## The Present: Slowly Figuring It Out
+
+While I am still a little confused on how to use Bootstrap 5, it is now starting to make more sense after a lot more practice with it. I realize how it can be useful for someone who is comfortable to easily and quickly make and edit a webpage. The premade classes do a lot of the menial styling for you and help make the webpage look modern. However, with my current (lack of) skills in Bootstrap 5, it is more confusing than helpful. Hopefully by the end of the semester I will become someone who can use Bootstrap 5 to quickly whip up a modern website. For now, I'm slowly navigating my way through it.
